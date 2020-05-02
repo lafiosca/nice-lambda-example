@@ -1,6 +1,6 @@
 # nice-lambda-example
 
-Here's a real-world use case for [`lafiosca/nice-lambda`](https://github.com/lafiosca/nice-lambda),
+Here's a real-world use case for [`nice-lambda`](https://github.com/lafiosca/nice-lambda),
 a Cognito User Pools pre-signup hook which prevents users from signing up with an email
 address that is already in use by another user.
 
