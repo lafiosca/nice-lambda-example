@@ -1,0 +1,25 @@
+{
+  "name": "nice-lambda-example",
+  "version": "1.0.0",
+  "description": "Cognito User Pool pre-signup custom hook",
+  "private": true,
+  "scripts": {
+    "build": "./node_modules/.bin/tsc"
+  },
+  "author": "Joe Lafiosca <joe@lafiosca.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.668.0",
+    "nice-lambda": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.51",
+    "@types/node": "^13.13.4",
+    "@typescript-eslint/eslint-plugin": "^2.30.0",
+    "@typescript-eslint/parser": "^2.30.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-typescript": "^7.2.1",
+    "eslint-plugin-import": "^2.20.2",
+    "typescript": "^3.8.3"
+  }
+}
