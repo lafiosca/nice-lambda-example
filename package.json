@@ -9,7 +9,7 @@
   "author": "Joe Lafiosca <joe@lafiosca.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.668.0",
+    "aws-sdk": "^2.814.0",
     "nice-lambda": "^3.0.0"
   },
   "devDependencies": {
